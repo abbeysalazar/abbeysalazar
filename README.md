@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abbeysalazar
-- 👀 I’m interested in finding a software engineering internship
+- 👀 I’m interested in finding a software development internship
 - 🌱 I’m currently learning about data structures & algorithms and C++ programming
 - 📫 How to reach me - email (arxsalazar@gmail.com) | phone (630-453-4385)
 
