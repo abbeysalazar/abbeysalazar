@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abbeysalazar
 - 👀 I'm currently working as a software engineering intern at CVS Health
-- 🌱 I'll be taking Java, Principles of Operating Systems, and Computer Architecture and Systems Org Fall '23
+- 🌱 I'll be taking Java, Principles of Operating Systems, and Computer Architecture and Systems Org this fall
 - 📫 How to reach me - email : arxsalazar@gmail.com | phone : (630) 453-4385 | website : www.abbeysalazar.dev
 
 <!---
